@@ -1,25 +1,25 @@
 [
   {
     "userId": 1,
-    "img": "https://i.ibb.co/CPWQVqh/shoe1.jpg",
+    "img": "https://i.ibb.co/87MP9SK/shoe1-removebg-preview.png",
     "name": "Trekking Shoes",
     "product": "3+ Products"
   },
   {
     "userId": 2,
-    "img": "https://i.ibb.co/S07Jpf3/jackets2.png",
+    "img": "https://i.ibb.co/C9g344S/jackets2-removebg-preview-removebg-preview.png",
     "name": "Trekking Jackets",
     "product": "8+ Products"
   },
   {
     "userId": 3,
-    "img": "https://i.ibb.co/1RwmfQZ/bag4.png",
+    "img": "https://i.ibb.co/P90Wnjg/bag1-removebg-preview.png",
     "name": "Backpacks",
     "product": "4+ Products"
   },
   {
     "userId": 4,
-    "img": "https://i.ibb.co/gtFJb3c/accessories.png",
+    "img": "https://i.ibb.co/3ppVB7c/accessories-removebg-preview.png",
     "name": "Trek Accessories",
     "product": "3+ Products"
   }

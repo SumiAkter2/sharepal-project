@@ -10,9 +10,11 @@ const Categories = () => {
   }, []);
   return (
     <div>
-      <h1 className="text-4xl text-center font-bold">Trekking Gear on rent</h1>
-      <p>{categories.length}</p>
-      <div>
+      <h1 className="text-4xl text-center font-bold my-10">
+        Trekking Gear on rent
+      </h1>
+
+      <div className="grid lg:grid-cols-3 md:grid-cols-2 gap-6 px-12">
         {categories.map((category) => (
           <Category key={categories.userId} category={category}></Category>
         ))}
