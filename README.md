@@ -1,7 +1,10 @@
 # Getting Started with created React App
 
-#[SharePal](https://sharepal-project.web.app/)
-#steps:
+# [SharePal](https://sharepal-project.web.app/) #[link](https://sharepal-project.web.app/)
+
+--
+
+- # steps:
 
 - In this page , I have used tailwind, daisyUI, fontAwesome, React, React router, and deployed on firebase.
 - I created a header component , and keep there sharePal logo and logIn button.
@@ -9,18 +12,22 @@
 - I created a fake data and keep it categories.json file.
 - And I fetch my categories of product in the page of categories.js component.
 - By maping the categories product and show all the product category.js component by using similar in look and different in data component.
-- Then I createdd a footer component and added a modal of the button named **>know more**.
+- Then I createdd a footer component and added a modal of the button named **know more**.
 - I made the whole page responsive for mobile phone , tablet and laptop screen.
+  --
 
 # My another project
 
-1.#[ Best tools co.](https://best-tools-co.web.app/)
-[client-site-code](https://github.com/SumiAkter2/best-tools-server)
-[server-site-code](https://github.com/SumiAkter2/tools-server)
+- 1. # [ Best tools co.](https://best-tools-co.web.app/).
+     [link](https://best-tools-co.web.app/).
 
-2. #[Innovative Agency](https://innovative-agency-43eb0.web.app/)
-   [client-site-code](https://github.com/SumiAkter2/innovative-agency)
-   [server-site-code](https://github.com/SumiAkter2/innovative-agency-services)
+- # [client-site-code](https://github.com/SumiAkter2/best-tools-server)
+- #[server-site-code](https://github.com/SumiAkter2/tools-server)
+
+2. # [Innovative Agency](https://innovative-agency-43eb0.web.app/)
+   [link](https://innovative-agency-43eb0.web.app/)
+   - #[client-site-code](https://github.com/SumiAkter2/innovative-agency)
+   - #[server-site-code](https://github.com/SumiAkter2/innovative-agency-services)
 
 ## Available Scripts
 
