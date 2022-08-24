@@ -1,6 +1,26 @@
-# Getting Started with Create React App
+# Getting Started with created React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#[SharePal](https://sharepal-project.web.app/)
+#steps:
+
+- In this page , I have used tailwind, daisyUI, fontAwesome, React, React router, and deployed on firebase.
+- I created a header component , and keep there sharePal logo and logIn button.
+- Next, I createdd a home page and keep there a feature of sharePal by using icon.
+- I created a fake data and keep it categories.json file.
+- And I fetch my categories of product in the page of categories.js component.
+- By maping the categories product and show all the product category.js component by using similar in look and different in data component.
+- Then I createdd a footer component and added a modal of the button named **>know more**.
+- I made the whole page responsive for mobile phone , tablet and laptop screen.
+
+# My another project
+
+1.#[ Best tools co.](https://best-tools-co.web.app/)
+[client-site-code](https://github.com/SumiAkter2/best-tools-server)
+[server-site-code](https://github.com/SumiAkter2/tools-server)
+
+2. #[Innovative Agency](https://innovative-agency-43eb0.web.app/)
+   [client-site-code](https://github.com/SumiAkter2/innovative-agency)
+   [server-site-code](https://github.com/SumiAkter2/innovative-agency-services)
 
 ## Available Scripts
 
@@ -17,7 +37,7 @@ You may also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+See the section about [running tests](https://facebook.github.io/created-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -27,7 +47,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about [deployment](https://facebook.github.io/created-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
 
@@ -41,30 +61,30 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can learn more in the [created React App documentation](https://facebook.github.io/created-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This section has moved here: [https://facebook.github.io/created-react-app/docs/code-splitting](https://facebook.github.io/created-react-app/docs/code-splitting)
 
 ### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+This section has moved here: [https://facebook.github.io/created-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/created-react-app/docs/analyzing-the-bundle-size)
 
 ### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This section has moved here: [https://facebook.github.io/created-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/created-react-app/docs/making-a-progressive-web-app)
 
 ### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+This section has moved here: [https://facebook.github.io/created-react-app/docs/advanced-configuration](https://facebook.github.io/created-react-app/docs/advanced-configuration)
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This section has moved here: [https://facebook.github.io/created-react-app/docs/deployment](https://facebook.github.io/created-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/created-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/created-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
