@@ -9,10 +9,10 @@ const Header = () => {
           src="https://i.ibb.co/Z1LRDsZ/sharepal-logo-removebg-preview.png"
           alt="sharePal-logo"
         />
-        <h1 className="text-3xl pl-2">SharePal</h1>
+        <h1 className="text-3xl ">SharePal</h1>
       </div>
       <div>
-        <button className="btn btn-outline btn-info  pr-4">LogIn/SignIn</button>
+        <button className="btn btn-outline btn-info  pr-4">LogIn</button>
       </div>
     </nav>
   );
