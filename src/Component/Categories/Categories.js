@@ -14,7 +14,7 @@ const Categories = () => {
         Trekking Gear on rent
       </h1>
 
-      <div className="grid lg:grid-cols-3 md:grid-cols-2 gap-6 px-12">
+      <div className="grid lg:grid-cols-3 md:grid-cols-2 gap-6 lg:px-24 px-12 rounded-md ">
         {categories.map((category) => (
           <Category key={categories.userId} category={category}></Category>
         ))}
