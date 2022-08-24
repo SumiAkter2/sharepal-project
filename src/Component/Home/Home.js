@@ -3,9 +3,10 @@ import React from "react";
 const Home = () => {
   return (
     <div>
-      <div class="lg:flex grid bg-blue-100 border-0 rounded-xl justify-center mx-12 p-8 text-center my-4">
+      <div class="lg:flex grid bg-blue-200 border-0 rounded-xl justify-center mx-12 p-6 text-center my-4">
         <div className="flex justify-center items-center ">
           {icon1}
+
           <h1 className="text-2xl  pl-4">Excellent Quality Products</h1>
         </div>
         <div class="divider lg:divider-horizontal px-2 "></div>

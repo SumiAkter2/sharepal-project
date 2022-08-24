@@ -1,3 +1,12 @@
+.whatsapp-logo{
+    position: sticky;
+    bottom: 100px;
+    cursor: pointer;
+}
+.category-container{
+    cursor: pointer;
+}
+
 .footer-container{
     background-color: rgb(22, 22, 86);
 }
@@ -13,4 +22,13 @@
     color: rgb(45, 45, 249);
     background-color: #fff;
     border: 1px solid blue;
+}
+.sm-footer {
+    cursor: pointer;
+}
+@media screen  and (max-width:576px){
+    .footer{
+        display: none;
+    }
+    
 }
